@@ -1,4 +1,4 @@
-# Sapient-Fullstack-Training
+# Full stack projects
 
 - Covers fundamentals of integrating technologies to build a micro-services application.
 - Includes one such application 'Metallica' build as Capstone project for fullstack training culmination
